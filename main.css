@@ -35,7 +35,7 @@ justify-content: space-between;
     text-align:center;
  }
  .btn5{
-    background-color: aqua;
+    background-color: rgb(9, 238, 238);
 color: azure;
 padding: 10px;
 border: none;
@@ -43,7 +43,7 @@ border-radius: 5px;
 }
 .btn6{
     padding: 10px;
-    border:1px ;
+    border:1px solid aqua;
     border-radius: 5px;
     color: blue;
     background-color: transparent;
